@@ -1,0 +1,1 @@
+structure basic web pages using HTML5 semantic elements, integrate images and favicons, and implement navigation links
